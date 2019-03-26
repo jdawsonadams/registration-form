@@ -1,4 +1,11 @@
 html {
   font-family: "Open Sans", sans-serif;
-  color: #000;
+  background: #fff;
+}
+
+.btn {
+  background: #000;
+  color: #f2f2f2;
+  border-radius: 6px;
+  border-color: #000;
 }
