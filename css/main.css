@@ -11,6 +11,8 @@ html {
   border-color: #000;
 }
 
-section {
-  padding: 0;
+.rap {
+
 }
+
+@media only screen and (min-width: 60em) {
