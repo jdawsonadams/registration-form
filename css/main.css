@@ -1,6 +1,7 @@
 html {
   font-family: "Open Sans", sans-serif;
   background: #fff;
+  color: #000;
 }
 
 .btn {
@@ -8,4 +9,8 @@ html {
   color: #f2f2f2;
   border-radius: 6px;
   border-color: #000;
+}
+
+section {
+  padding: 0;
 }
